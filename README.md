@@ -14,7 +14,7 @@ Moving from a fixed maintenance schedule to condition-based servicing on 100 jet
 | Broke in service | $5M |
 | Each good flight wasted by servicing early | $0.02M |
 
-![Turbine outlet temperature rises as engines wear out](images/engine_temperatures.png)
+![Turbine outlet temperature rises as engines wear out](engine_temperatures.png)
 
 ## Results
 
@@ -33,7 +33,7 @@ Moving from a fixed maintenance schedule to condition-based servicing on 100 jet
 | $5M | 517.75 °C | 2 | $125M | $242M |
 | $20M | 516.75 °C | 0 | $128M | $347M |
 
-![Total cost by trigger temperature for three breakdown costs](images/cost_by_trigger.png)
+![Total cost by trigger temperature for three breakdown costs](cost_by_trigger.png)
 
 The more a failure costs, the earlier you service. That decision belongs to the business, and the analysis makes it explicit.
 
